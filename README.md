@@ -8,4 +8,5 @@ Sobre as funções
 ```
 
 Ela é uma calculadora básica, que tem as operações de adicinar, subtrair, multiplicar e dividir.
+
 Tem tambem o botão de limpar "C", o de apagar "<" e o de igual "="
