@@ -1,6 +1,7 @@
 # Calculadora
 
 >Status do projeto: Desenvolvido✅
+
 Um dos primeiros projetos que eu fiz, ultilizei html, css e js basicos na criação da calculadora.
 
 ```
